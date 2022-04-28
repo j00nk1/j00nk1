@@ -4,7 +4,7 @@
 
 I'm a Software Engineer💻 who was born and raised in Japan🗾 lives in the US🗽🌈.
 
-My hobbies: Snorkeling🤿 Hiking⛰️🚶🏻‍♂️ Traveling✈ Karaoke🎤 Watching Eurovision Song Contest🌎🎵 Knitting🧶
+My hobbies: Snorkeling🤿 Hiking⛰️🚶🏻‍♂️ Traveling✈ Karaoke🎤 Knitting🧶 Watching Eurovision Song Contest🌎🎵 
 
 [LinkedIn](https://www.linkedin.com/in/junki-sato-7bb773208/)
 
