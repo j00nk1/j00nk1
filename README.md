@@ -1,4 +1,4 @@
-### Hi, My name is Junki! 👋
+## Hi, My name is Junki! 👋
 
 佐藤隼己のリポジトリへようこそ！
 
@@ -18,11 +18,13 @@ I'm a Software Engineer💻 who was born and raised in Japan🗾 lives in the US
 ### Works | 製作物
 
 Please check [here](https://j00nk1.github.io/) to see all of my projects!
+
 今までのプロジェクトは[こちら](https://j00nk1.github.io/)をご参照ください！
 
 ### Contact | お問い合わせ
 
 Please contact me on [LinkedIn](https://www.linkedin.com/in/junki-sato-7bb773208/).
+
 お問い合わせは[LinkedIn](https://www.linkedin.com/in/junki-sato-7bb773208/)から DM お願いします。
 
 ### Technologies & others | 言語諸々
