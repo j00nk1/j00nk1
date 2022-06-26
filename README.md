@@ -2,7 +2,7 @@
 
 佐藤隼己のリポジトリへようこそ！
 
-日本生まれ日本育ちの(駆け出し)ソフトウェアエンジニアです。現在はアメリカ在住。
+日本生まれ日本育ちのソフトウェアエンジニアです。現在はアメリカ在住。
 
 I'm a Software Engineer💻 who was born and raised in Japan🗾 lives in the US🗽🌈.
 
